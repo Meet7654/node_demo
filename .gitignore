@@ -1,0 +1,9 @@
+.idea
+node_back/.env
+node_back/env.example
+node_back/e-comm.iml
+node_back/node_modules
+node_back/package-lock.json
+node_front/.angular
+node_front/node_modules
+node_front/package-lock.json
